@@ -1,2 +1,3 @@
 add text into new_file
 and second line
+third line to newfile
