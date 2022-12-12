@@ -1,1 +1,1 @@
-# gitCourse
+# added new info
