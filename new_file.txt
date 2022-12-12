@@ -1,0 +1,2 @@
+add text into new_file
+and second line
